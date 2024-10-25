@@ -1,0 +1,2 @@
+# REPOSTERIA
+yo como repostera independiente, me apasiona compartir mi amor por la reposteria con otros, mi aplicacion es un rejlejo de esa pasion, ofrececiendo una coleccion unica de recetas y consejos de reposteria 
