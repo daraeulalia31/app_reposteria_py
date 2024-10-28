@@ -14,11 +14,16 @@ por la resposteria con sus mayores fortalezas y habilidades.
 Diseña la Experiencia del Cliente:
 ## NOMBRE DE LA APLICACION.
 "DULCES SUEÑOS"
+## LOGO DE MI APLICACION
+![alt text](300671288_480845704050289_3921497678043232314_n-1.jpg)
  ## PUNTO DE CONTACTO INICIAL
 - Página web básica:  Con fotos de alta calidad de tus productos estrella, descripciones breves, información
   sobre pedidos, precios y contacto.
 - Redes sociales:  Crea perfiles en Instagram y Facebook con fotos atractivas, videos cortos del proceso de 
   elaboración, historias de la repostería, y ofertas especiales.
+  https://cdn2.downdetector.com/static/uploads/c/300/f0d8e/FB-f-Logo__blue_512.png
+  https://es.wikipedia.org/wiki/Instagram
+  
 - Mercado local: Si eres de una ciudad pequeña, empieza vendiendo en un mercado local para obtener referencias 
   y feedback.
 ## PROCESO DE PEDIDO
