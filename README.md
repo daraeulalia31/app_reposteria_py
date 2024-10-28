@@ -21,8 +21,8 @@ Diseña la Experiencia del Cliente:
   sobre pedidos, precios y contacto.
 - Redes sociales:  Crea perfiles en Instagram y Facebook con fotos atractivas, videos cortos del proceso de 
   elaboración, historias de la repostería, y ofertas especiales.
-  https://cdn2.downdetector.com/static/uploads/c/300/f0d8e/FB-f-Logo__blue_512.png
-  https://es.wikipedia.org/wiki/Instagram
+  ![alt text](redes1.jpg)
+!  [alt text](channels4_profile.jpg)
   
 - Mercado local: Si eres de una ciudad pequeña, empieza vendiendo en un mercado local para obtener referencias 
   y feedback.
