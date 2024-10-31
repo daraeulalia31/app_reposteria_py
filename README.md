@@ -33,3 +33,4 @@ Diseña la Experiencia del Cliente:
 - Recogida en persona: Si es posible, ofrece esta opción.
 - Entrega a domicilio:  Si tienes un radio de entrega limitado, puedes realizarla tú misma o usar servicios de mensajería.
  
+ https://trello.com/invite/b/672382e56db7c9ce4c1fc74a/ATTId01dceb89b443ba7dffc3f4365210a5fFE1BD0BB/mi-tablero-de-trello
