@@ -59,7 +59,7 @@ def index() -> rx.Component:
                         # Botón "Regístrate aquí"
                         rx.link(
                             rx.button("¡Regístrate aquí!", color_scheme="green"),
-                            href="https://forms.gle/fKuHUqbSzgsf9EM16",
+                            href="https://docs.google.com/forms/d/1uReys-KGOXo6r26sU_KMbqtrNTUPksqj-N_gzl20b-s/edit",
                             is_external=True,
                         ),  
                         # Botón "Facebook" 
