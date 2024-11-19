@@ -45,7 +45,7 @@ def index() -> rx.Component:
                             "¡Prepárate para convertirte en un maestro repostero con DULCES SUEÑOS!. "
                             "Nuestra aplicación te ofrece una colección completa de recetas deliciosas y fáciles de seguir, perfectas para todos los niveles de experiencia, desde principiantes hasta expertos",
                             size="md",
-                            color="white",
+                            color="black",
                             max_width="40rem",
                             text_align="center",  # Centrado del texto
                             margin_top="1rem",  # Margen superior para el texto
@@ -109,7 +109,7 @@ def index() -> rx.Component:
             ),
             
             # Fondo y padding de la página
-            bg="#000000",  # Fondo negro
+            bg="#ff85f3",  # Fondo rosado
             padding="2rem",
             min_height="100vh",  # Asegura que la página ocupe toda la altura de la pantalla
         ),

@@ -1,4 +1,4 @@
-# REPOSTERIA
+# REPOSTERIA.
 
 ## PROBLEMA.
  Soy una repostera talentosa esta luchando por obtener el reconocimineto que merece.
