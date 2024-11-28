@@ -16,18 +16,18 @@ def index() -> rx.Component:
                         alt="",
                         border_radius="lg",
                         box_shadow="md",
-                        max_width="15rem",  # Tamaño ajustado para la imagen
+                        max_width="13rem",  # Tamaño ajustado para la imagen
                     ),
                     rx.image(
                         src="https://i.pinimg.com/originals/a1/ea/d4/a1ead4218c283616e38e6f2b7fe676f2.jpg",
                         alt="",
                         border_radius="lg",
                         box_shadow="md",
-                        max_width="15rem",  # Tamaño ajustado para la imagen
+                        max_width="13rem",  # Tamaño ajustado para la imagen
                     ),
-                    spacing="4",  # Espaciado entre las imágenes
+                    spacing="5",  # Espaciado entre las imágenes
                     align="center",  # Alineación centrada
-                    margin_right="2rem",  # Espaciado entre las imágenes y el contenido de la derecha
+                    margin_right="4rem",  # Espaciado entre las imágenes y el contenido de la derecha
                 ),
                 
                 # Espaciador para centrar el título y texto
@@ -96,11 +96,11 @@ def index() -> rx.Component:
                         alt="",
                         border_radius="lg",
                         box_shadow="md",
-                        max_width="14rem",  # Tamaño ajustado para la imagen
+                        max_width="13rem",  # Tamaño ajustado para la imagen
                     ),
                     spacing="4",  # Espaciado entre las imágenes
                     align="center",  # Alineación centrada
-                    margin_left="2rem",  # Espaciado entre las imágenes y el contenido de la izquierda
+                    margin_left="1rem",  # Espaciado entre las imágenes y el contenido de la izquierda
                 ),
                 
                 spacing="6",  # Espaciado general entre las columnas
@@ -109,8 +109,8 @@ def index() -> rx.Component:
             ),
             
             # Fondo y padding de la página
-            bg="#ff85f3",  # Fondo rosado
-            padding="2rem",
+            bg="#ff9dfb",  # Fondo rosado
+            padding="1rem",
             min_height="100vh",  # Asegura que la página ocupe toda la altura de la pantalla
         ),
     )
